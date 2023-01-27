@@ -1,6 +1,6 @@
 # My archives
 Content/
-.idea/
+.idea/*
 
 # Distribution / packaging
 .Python
