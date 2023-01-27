@@ -19,7 +19,35 @@ In 100 days, 1 hour a day, I will learn how to build a project in phython.<br>
 I'm starting it today 01/26/2023 knowing how to write only "Hello World" in the language.<br>
 
 
-## 📁 Files/
+## 📁 Projects/
+
+## 🛠️ Usage
+
+### Requirements
+This project requires [GNU Compiler Collection](https://gcc.gnu.org/) and [Python +3.0](https://www.python.org/downloads/) to compiler and the Internet to clone that repository
+❗️| Make sure you have all the required tools installed on your local machine then continue with these steps.<br>
+
+**Windows**
+
+### Instructions to run the projects in your terminal :
+
+**0. Download the archives**
+
+```bash
+# Clone the repository
+$ git clone git@github.com:mewmewdevart/100DaysofCode.git
+
+# Enter into the directory
+$ cd 100DaysofCode/
+```
+
+**1. Run the Project**
+```bash
+# Run the command python3 in your root directory + the path of the project
+#            you would like to see  root directory
+#			Example:  python3 Day01/Project01/main.py
+$ python3 DayXX/ProjectXX/main.py
+```
 
 ## 📋 Credits
 - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/learn/lecture/23154980?src=sac&kw=100#overview) for 2023 by Angela Yu.
