@@ -15,19 +15,22 @@
 
 ## 💡 About the project
 > _Me, Larissa. I challenge myself to complete the 100 Days of Code The Complete Python Pro Bootcamp bootcamp. <br>
-In 100 days, 1 hour a day, I will learn how to build a project in phython.<br>
+In 100 days, 1 hour a day, I will learn how to build a project in python.<br>
 I'm starting it today 01/26/2023 knowing how to write only "Hello World" in the language.<br>
 
 
 ## 📁 Projects/
+####      Beginner Section/
+- [01. Band Name Generator](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day01/Project01) | Main content : Variables in Python
+
+//soon
 
 ## 🛠️ Usage
 
 ### Requirements
-This project requires [GNU Compiler Collection](https://gcc.gnu.org/) and [Python +3.0](https://www.python.org/downloads/) to compiler and the Internet to clone that repository
+This project requires [GNU Compiler Collection](https://gcc.gnu.org/), [Python +3.0](https://www.python.org/downloads/) to compiler and the Internet to clone that repository. <br>
 ❗️| Make sure you have all the required tools installed on your local machine then continue with these steps.<br>
 
-**Windows**
 
 ### Instructions to run the projects in your terminal :
 
