@@ -60,6 +60,7 @@ $ python3 DayXX/ProjectXX/main.py
 
 ## 📋 Credits
 - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/learn/lecture/23154980?src=sac&kw=100#overview) for 2023 by Angela Yu.
+- [Python Tutorial Document - W3School](https://www.w3schools.com/python/default.asp)
 
 
  <p align="center"> Developed with love 💜 by Larissa Cristina Benedito (Mewmew/Larcrist). </p>
