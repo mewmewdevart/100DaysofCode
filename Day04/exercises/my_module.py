@@ -1,0 +1,1 @@
+a = "Está informação está em outro arquivo"
