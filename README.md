@@ -25,6 +25,7 @@ I'm starting it today 01/26/2023 knowing how to write only "Hello World" in the 
 - [02. Tip Calculator](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day02/Project02) | Understanding Data Types and How to Manipulate Strings
 - [03. Tresure Island](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day03/Project03) | Control Flow and Logical Operators
 - [04. Rock Paper Scissors](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day04/Project04) | Randomisation and Python Lists
+- [05. A Password Generate](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day05/Project05) | Python Loops
 
 ####      Intermediate Section/ 
 ####       Advanced Section/
