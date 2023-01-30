@@ -1,0 +1,35 @@
+IndexError is one of the most common errors you will make and encounter. Getting familiar with list indices and how they work in the context of Lists and nested Lists will make your life much easier in the future!
+
+1. Given the following list:
+
+    fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+    Which line of code will give you "Apples"?
+
+    Awnser: fruits[-5
+
+2. Given the code below:
+    fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+    fruits[-1] = "Melons"
+    fruits.append("Lemons")
+    print(fruits)
+    What do you think will be printed?
+
+    Awnser: ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Melons", "Lemons"]
+
+3.  Given the code below:
+
+    fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+    vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+
+    dirty_dozen = [fruits, vegetables]
+
+    print(dirty_dozen[1][1])
+    What will be printed?
+
+    Awnser: Kale porquê
+
+                                Coluna[0]  Coluna[1] ...
+        Lista0 : fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+        LIsta1 : vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+
+        print(dirty_dozen[1][1]) = Vá na lista 1 e printe a coluna 1
