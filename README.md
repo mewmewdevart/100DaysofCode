@@ -17,6 +17,7 @@
 > _Me, Larissa. I challenge myself to complete the 100 Days of Code The Complete Python Pro Bootcamp bootcamp. <br>
 In 100 days, 1 hour a day, I will learn how to build a project in python.<br>
 I'm starting it today 01/26/2023 knowing how to write only "Hello World" in the language.<br>
+<br>When I fail to complete a challenge that day(btw, don't have a time to study etc), that challenge is rolled over to the next day. So that's 100 non-continuous days of learning Python. 😂
 
 
 ## 📁 Projects/
