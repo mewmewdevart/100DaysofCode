@@ -28,6 +28,7 @@ I'm starting it today 01/26/2023 knowing how to write only "Hello World" in the 
 - [04. Rock Paper Scissors](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day04/Project04) | Randomisation and Python Lists
 - [05. A Password Generate](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day05/Project05) | Python Loops
 - [06. Escaping the Maze](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day06/Project06) | Python Functions & Karel
+- [07. Hangman](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day07/Project07) | Review about for & while loops, if/else, lists, strings, range and modules
 
 ####      Intermediate Section/ 
 ####       Advanced Section/
