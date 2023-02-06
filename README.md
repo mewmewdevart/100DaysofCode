@@ -29,6 +29,7 @@ I'm starting it today 01/26/2023 knowing how to write only "Hello World" in the 
 - [05. A Password Generate](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day05/Project05) | Python Loops
 - [06. Escaping the Maze](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day06/Project06) | Python Functions & Karel
 - [07. Hangman](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day07/Project07) | Review about for & while loops, if/else, lists, strings, range and modules
+- [08. Encrypt - Caesar Cipher ](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day08/Project08) | Function parameters & Caesar Cipher
 
 ####      Intermediate Section/ 
 ####       Advanced Section/
