@@ -1,4 +1,6 @@
 import random
+from hangman_words import word_list
+from hangman_body import ft_draw_display
 
 # Reading an archive with ASCII art
 archive = open('ascii_hangman.txt', 'r')
@@ -6,73 +8,20 @@ content = archive.read()
 print(content)
 archive.close()
 
+
 def ft_choice_word():
-    word_list = ["camel", "dolphin", "goat", "cat"]
-    return random.choice(word_list)
+    chosen_word = random.choice(word_list)
+    return chosen_word
 
 
-def ft_display_word(word_list, right_word):
+def ft_display_word(chosen_word, right_word):
     display = ""
-    for letter in word_list:
+    for letter in chosen_word:
         if letter in right_word:
             display += letter
         else:
             display += "_"
     return display
-
-
-def ft_draw_display(attempts):
-    if attempts == 6:
-        print(" _____")
-        print("|     |")
-        print("|")
-        print("|")
-        print("|")
-        print("|")
-        print("\nThe gallows was built. Get ready to be hung!")
-    elif attempts == 5:
-        print(" _____")
-        print("|     |")
-        print("|     O")
-        print("|")
-        print("|")
-        print("|")
-    elif attempts == 4:
-        print(" _____")
-        print("|     |")
-        print("|     O")
-        print("|     |")
-        print("|")
-        print("|")
-    elif attempts == 3:
-        print(" _____")
-        print("|     |")
-        print("|     O")
-        print("|    /|")
-        print("|")
-        print("|")
-    elif attempts == 2:
-        print(" _____")
-        print("|     |")
-        print("|     O")
-        print("|    /|\\")
-        print("|")
-        print("|")
-    elif attempts == 1:
-        print(" _____")
-        print("|     |")
-        print("|     O")
-        print("|    /|\\")
-        print("|    / \\")
-        print("|")
-    elif attempts == 0:
-        print(" _____")
-        print("|     |")
-        print("|     O")
-        print("|        ")
-        print("|    /|\\")
-        print("|    / \\")
-        print("The neck couldn't support the weight of the body...")
 
 
 def game():
