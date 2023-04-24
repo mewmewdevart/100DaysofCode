@@ -24,9 +24,7 @@ Today, on 04/24/2022, I am starting the challenge with only the ability to write
 
 A band name generator from the input of users of their country and a random pet name. <br>
 - Concepts learned: 
-	-  Variables in Python
-	- String Manipulation
-	- String Manipulation
+	- Printing, commenting, debugging, string manipulation, and variables.
 
 //soon...
 
