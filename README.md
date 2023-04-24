@@ -19,7 +19,17 @@ Today, on 04/24/2022, I am starting the challenge with only the ability to write
 
 
 ## 📁 Projects/
-####      Beginner Section/ 
+####      Beginner Section/
+#### Day 01 / [A Band Name Generator](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day01/Project01)
+
+A band name generator from the input of users of their country and a random pet name. <br>
+- Concepts learned: 
+	-  Variables in Python
+	- String Manipulation
+	- String Manipulation
+
+//soon...
+
 ####      Intermediate Section/ 
 ####       Advanced Section/
 ####       Professional Section/ 
