@@ -25,6 +25,10 @@ Today, on 04/24/2022, I am starting the challenge with only the ability to write
 A band name generator from the input of users of their country and a random pet name. <br>
 - Concepts learned: 
 	- Printing, commenting, debugging, string manipulation, and variables.
+#### Day 02 / [A Tip Calculator](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day02/Project02)
+Created a simple calculator that takes in input of the total bill, percentage of tips to be given and the amount of people to split the bill.<br>
+- Concepts learned: 
+	- Data types,  numbers, operations, type conversion, f-strings and round numbers (specified decimal number rounding_off=Round(2.666666,2) = 2.66)
 
 //soon...
 
