@@ -29,6 +29,10 @@ A band name generator from the input of users of their country and a random pet 
 Created a simple calculator that takes in input of the total bill, percentage of tips to be given and the amount of people to split the bill.<br>
 - Concepts learned: 
 	- Data types,  numbers, operations, type conversion, f-strings and round numbers (specified decimal number rounding_off=Round(2.666666,2) = 2.66)
+#### Day 03 / [A Teasure Island - Text Game](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day03/Project03)
+Created a storytelling like treasure island adventure where each steps u take lead to different outcomes.<br>
+- Concepts learned: 
+	- Learned if/elif/else statements & nested if/elif/else & multiple ifs and reminded me that indentation is important in python.
 
 //soon...
 
