@@ -1,4 +1,4 @@
-archiveRock = '''
+asciiArt_Rock = '''
     _______
 ---'   ____)
       (_____)
@@ -7,7 +7,7 @@ archiveRock = '''
 ---.__(___)
 '''
 
-archivePaper = '''
+asciiArt_Paper = '''
     _______
 ---'   ____)____
           ______)
@@ -16,7 +16,7 @@ archivePaper = '''
 ---.__________)
 '''
 
-archiveScissor = '''
+asciiArt_Scissor = '''
     _______
 ---'   ____)____
           ______)
@@ -25,7 +25,7 @@ archiveScissor = '''
 ---.__(___)
 '''
 
-archiveSpok = '''
+asciiArt_Spok = '''
                       _    
                      | |   
  ___ _ __   ___   ___| | __
@@ -36,7 +36,7 @@ archiveSpok = '''
     |_|                    
 '''
 
-archiveLizard = '''
+asciiArt_Lizard = '''
                        )/_
              _.--..---"-,--c_
         \L..'           ._O__)_
