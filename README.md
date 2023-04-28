@@ -36,8 +36,14 @@ Created a storytelling like treasure island adventure where each steps u take le
 #### Day 04 / [Rock Paper Scissors Game](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day04/Project04)
 A  a rock, paper, scissors game.  <br>
 - Concepts learned: 
-	- Randomisation and python lists
+	- Randomisation and python lists.
 
+#### Day 05 / [Password Generator](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day05/Project05)
+This is a simple program that asks the user to specify the number of letters, symbols, and numbers that should be included in the password. The program then uses the random library to select random characters from each of these character lists.  <br>
+- Concepts learned: 
+	- Loops, range and clode blocks.
+
+Loops, range and clode blocks
 //soon...
 
 ####      Intermediate Section/ 
