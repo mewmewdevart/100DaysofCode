@@ -33,6 +33,10 @@ Created a simple calculator that takes in input of the total bill, percentage of
 Created a storytelling like treasure island adventure where each steps u take lead to different outcomes.<br>
 - Concepts learned: 
 	- Learned if/elif/else statements & nested if/elif/else & multiple ifs and reminded me that indentation is important in python.
+#### Day 04 / [Rock Paper Scissors Game](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day04/Project04)
+A  a rock, paper, scissors game.  <br>
+- Concepts learned: 
+	- Randomisation and python lists
 
 //soon...
 
