@@ -43,7 +43,12 @@ This is a simple program that asks the user to specify the number of letters, sy
 - Concepts learned: 
 	- Loops, range and clode blocks.
 
-Loops, range and clode blocks
+#### Day 06 / [Reeborg Challenge - Extern Link](https://reeborg.ca/reeborg.htmllang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+Reeborg was exploring a dark maze when the battery in its flashlight ran out. This project doesn't have any code uploaded to my Github because it's a web game that you can use to complete the challenge.<br>
+- Concepts learned: 
+	- The main concepts that were learned today were how to use while loops and functions.
+
+
 //soon...
 
 ####      Intermediate Section/ 
@@ -55,7 +60,7 @@ Loops, range and clode blocks
 ## 🛠️ Usage
 
 ### Requirements
-This project requires the following tools to be installed on your local machine: [GNU Compiler Collection](https://gcc.gnu.org/), [Python +3.0 or later](https://www.python.org/downloads/) and an active internet connection to clone the repository.<br>
+This project requires the following tools to be installed on your local machine: [Python +3.0 or later](https://www.python.org/downloads/), and an active internet connection to clone the repository. (More tools soon) <br>
 ❗️| Before proceeding with the steps below, make sure that you have all the required tools installed on your machine.<br>
 
 
