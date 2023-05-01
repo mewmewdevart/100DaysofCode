@@ -1,6 +1,8 @@
 import random
 import moduleList
 import time
+from asciiArt import hangmanpics
+from asciiArt import trophy
 
 choice_list = -1 # initialize the variable with an invalid choice value
 
@@ -43,23 +45,47 @@ for i in range(1, 4):
 
 word_length = len(chosen_word)
 
-print(chosen_word)
-
 display_list = []
 for i in range(word_length):
 	blank = '_'
 	display_list.append(blank)
 
+print("\n\t\t---------\n")
+print(f"The word you need to guess has {word_length} letters.")
+
+chosen_word = chosen_word.lower()
+print(chosen_word)
+print(display_list)
+
+lifeGame = 6
+draw = 1
+
 endGame = False
 while not endGame:
+	if draw:
+		print(hangmanpics[draw])
+  
 	guess_player = input("Guess one letter: ").lower()
+	checker = 0
 	for position in range(word_length):
 		letter = chosen_word[position]
 		if (letter == guess_player):
 			display_list[position] = letter
+			checker = 1
 
+	if (checker == 0):
+		lifeGame -= 1
+		draw += 1
+
+	if (lifeGame == 0):
+		print("Oh no, you lose!")
+		break
+
+	print("\n\t---------")
 	print(display_list)
 	
 	if "_" not in display_list:
 		endGame = True
-		print("You win!")
+		print("\n\t---------")
+		print("\nCongratulations, you win!")
+		print(trophy[0])
