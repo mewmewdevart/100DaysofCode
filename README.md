@@ -48,7 +48,10 @@ Reeborg was exploring a dark maze when the battery in its flashlight ran out. Th
 - Concepts learned: 
 	- The main concepts that were learned today were how to use while loops and functions.
 
-
+#### Day 07 / [Hangman Game](https://github.com/mewmewdevart/100DaysofCode/tree/main/Day07)
+Hangman Game is a classic word guessing game where the player must guess a secret word by suggesting letters.<br>
+- Concepts learned: 
+	- The main concepts that are used in this implementation include user input validation, randomization, list manipulation, and while loops.
 //soon...
 
 ####      Intermediate Section/ 
