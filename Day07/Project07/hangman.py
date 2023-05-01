@@ -1,11 +1,30 @@
 import random
+import moduleList
 
-animals_list = ["cat", "dog", "goat", "horse", "pig", "rabbit", "buffalo", "anaconda", "bear", "bird", "fish", "tiger", "turtle", "gorilla", "ant"]
+choice_list = -1
+print("Welcome to Hangman!")
 
-chosen_word = random.choice(animals_list)
+while choice_list == -1:
+    try:
+        choice_list = int(input("What kind of thing do you want to guess? Type:\n \t0 - Animal\n\t1 - Object\n\t2 - Famous\n"))
+    except ValueError:
+        print("It is not a valid choice! Please try insert one valid number again.")
+        exit()
+    else:
+        if (choice_list == 0):
+            chosen_word = random.choice(moduleList.animals_list)
+            print("Choice: animal. You will have to guess an animal.")
+        elif (choice_list == 1):
+            chosen_word = random.choice(moduleList.animals_list)
+            print("Choice: animal. You will have to guess an animal.")
+        elif(choice_list == 2):
+            chosen_word = random.choice(moduleList.animals_list)
+            print("Choice: animal. You will have to guess an animal.")
+
 word_length = len(chosen_word)
 
 print(chosen_word)
+
 display_list = []
 for i in range(word_length):
     blank = '_'
