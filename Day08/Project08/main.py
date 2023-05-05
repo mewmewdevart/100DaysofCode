@@ -1,6 +1,6 @@
 print("\t\t\t\t\t\t-----------------------")
 
-print("\t\t\t\t\tWelcome to Cipher Text Encode/Decode!")
+print("\t\t\t\t\tWelcome to Cipher Text Encode and Decode!")
 print("\t\t\t\t\t\t-----------------------")
 
 print(" To encrypt insert the \'encode \' option, enter the message in the terminal textbox and specify the shift to encrypt. \n  To decrypt insert the \'decode\' option, enter the message in the Ciphertext textbox, specify the shift, and click Decrypt.")
