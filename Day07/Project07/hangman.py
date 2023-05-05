@@ -1,8 +1,8 @@
-import random
-import moduleList
-import time
 from asciiArt import hangmanpics
 from asciiArt import trophy
+import moduleList
+import random
+import time
 
 choice_list = -1 # initialize the variable with an invalid choice value
 
@@ -36,7 +36,7 @@ while choice_list == -1:
 			chosen_word = random.choice(moduleList.colors_list)
 			print("Category: Color. You will have to guess a color.")
 		else:
-			print("It is not a valid choice! Please try inserting a valid number again.\n")
+			print("\n WARNING! It is not a valid choice! Please try inserting a valid number again.\n")
 			choice_list = -1 # reset the value to -1 to ask for input again
 
 for i in range(1, 4):
@@ -54,15 +54,15 @@ print("\n\t\t---------\n")
 print(f"The word you need to guess has {word_length} letters.")
 
 chosen_word = chosen_word.lower()
-print(chosen_word)
+# print(chosen_word)
 print(display_list)
 
-lifeGame = 6
+lifeGame = 7
 draw = 1
 
 endGame = False
 while not endGame:
-	if draw:
+	if (draw):
 		print(hangmanpics[draw])
   
 	guess_player = input("Guess one letter: ").lower()
@@ -77,7 +77,8 @@ while not endGame:
 		lifeGame -= 1
 		draw += 1
 
-	if (lifeGame == 0):
+	if (lifeGame == 1):
+		print(hangmanpics[draw])
 		print("Oh no, you lose!")
 		break
 
