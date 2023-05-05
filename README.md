@@ -52,6 +52,12 @@ Reeborg was exploring a dark maze when the battery in its flashlight ran out. Th
 Hangman Game is a classic word guessing game where the player must guess a secret word by suggesting letters.<br>
 - Concepts learned: 
 	- The main concepts that are used in this implementation include user input validation, randomization, list manipulation, and while loops.
+	
+#### Day 08 / [Cipher Text Encode and Decode](https://github.com/mewmewdevart/100DaysofCode/blob/main/Day08/Project08/main.py)
+A program to encrypt and decrypt in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.<br>
+- Concepts learned: 
+	- Review of the old concepts learned (list manipulation, functions, loops etc)
+
 //soon...
 
 ####      Intermediate Section/ 
