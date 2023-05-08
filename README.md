@@ -58,6 +58,13 @@ A program to encrypt and decrypt in which each letter in the plaintext is replac
 - Concepts learned: 
 	- Review of the old concepts learned (list manipulation, functions, loops etc)
 
+#### Day 09 / [Secret Auction Program](https://github.com/mewmewdevart/100DaysofCode/blob/main/Day09/Project09/main.py)
+The objective is to write a program that will collect the names and bids of different people. The program should ask for each bidder's name and their bid individually.<br>
+- Concepts learned: 
+	- Dictionaries, nesting and the secret auction
+
+
+Dictionaries, nesting and the secret auction
 //soon...
 
 ####      Intermediate Section/ 
