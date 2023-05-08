@@ -1,0 +1,39 @@
+Pergunta 1:
+Which line of code will change the starting_dictionary to the final_dictionary?
+
+starting_dictionary = {
+    "a": 9,
+    "b": 8,
+}
+
+
+final_dictionary = {
+    "a": 9,
+    "b": 8,
+    "c": 7,
+}
+
+A: starting_dictionary["c"] = 7
+final_dictionary = starting_dictionary
+
+Pergunta 2:
+Which line of code will produce an error?
+// There is no key that matches 1, this will give you a KeyError. Unlike with a Python List, using the [1] square bracket notation on a dictionary will *not* retrieve the second item.
+
+dict = {
+    "a": 1,
+    "b": 2,
+    "c": 3,
+}
+
+A: print(dict[1])
+
+Pergunta 3:
+Which line of code will print "Steak"?
+// [2] accesses the value with key 2, [0] gets the first item from the list.
+order = {
+    "starter": {1: "Salad", 2: "Soup"},
+    "main": {1: ["Burger", "Fries"], 2: ["Steak"]},
+    "dessert": {1: ["Ice Cream"], 2: []},
+}
+A: print(order["main][2][0])
