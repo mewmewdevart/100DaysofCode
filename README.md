@@ -63,8 +63,6 @@ The objective is to write a program that will collect the names and bids of diff
 - Concepts learned: 
 	- Dictionaries, nesting and the secret auction
 
-
-Dictionaries, nesting and the secret auction
 //soon...
 
 ####      Intermediate Section/ 
