@@ -63,6 +63,9 @@ The objective is to write a program that will collect the names and bids of diff
 - Concepts learned: 
 	- Dictionaries, nesting and the secret auction
 
+#### Day 10 / [Calculator](https://github.com/mewmewdevart/100DaysofCode/blob/main/Day10/Project10/main.py)
+The objective is to learn about Functions with return. <br>
+
 //soon...
 
 ####      Intermediate Section/ 
